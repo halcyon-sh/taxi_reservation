@@ -3,7 +3,7 @@
 ### 서비스 시나리오
 
 #### 기능적 요구사항
-This is a normal paragraph:
+*****
 
   1. 고객이 출발지, 목적지, 택시유형을 선택하여 요청한다.
   2. 고객은 결제방법을 선택한다.
@@ -13,7 +13,7 @@ This is a normal paragraph:
   6. 고객은 배차상황에 대해 조회할 수 있다.
   7. 목적지에 도착 후 결제방법에 따라 결제한다.
   8. 
-end code block.
+*****
 
 #### 비기능적 요구사항
 This is a normal paragraph:

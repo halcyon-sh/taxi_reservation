@@ -15,6 +15,12 @@
   8. 
 *****
 
+This is a normal paragraph:
+
+    This is a code block.
+
+end code block.
+
 #### 비기능적 요구사항
 This is a normal paragraph:
 

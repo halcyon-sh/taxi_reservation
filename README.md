@@ -27,6 +27,9 @@
        - 배차상태가 바뀔때마다 카톡 등으로 알림을 줄 수 있어야 한다(Event Driven)    
 *****
 
+![image](https://user-images.githubusercontent.com/61194075/122023455-874a9300-ce02-11eb-8f74-a42b8cefd454.png)
+
+
 ### 분석/설계
 
 *****
